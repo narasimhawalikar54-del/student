@@ -1,4 +1,4 @@
 # student
 This is Git repository.
 <br>
-Author - Narasimhs
+Author - Narasimha
